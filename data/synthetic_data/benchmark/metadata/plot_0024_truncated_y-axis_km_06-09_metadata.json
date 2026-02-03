@@ -1,0 +1,49 @@
+{
+  "generator": "Truncated Y-Axis KM (0.6-0.9)",
+  "config": {
+    "num_samples": 106,
+    "censoring_rate": 0.3,
+    "figure_size": [
+      10,
+      6
+    ],
+    "dpi": 100,
+    "line_width": 2.0,
+    "x_limits": null,
+    "y_limits": [
+      0.5607612200783253,
+      0.9496986492951869
+    ],
+    "truncate_y_axis": true,
+    "y_truncate_min": 0.5607612200783253,
+    "y_truncate_max": 0.9496986492951869,
+    "show_grid": true,
+    "grid_alpha": 0.3,
+    "background_color": "white",
+    "add_noise": false,
+    "noise_level": 0.1,
+    "blur_kernel": 0,
+    "jpeg_quality": 95,
+    "num_groups": 1,
+    "group_names": null,
+    "colors": null,
+    "title": "Kaplan-Meier Survival Curve",
+    "xlabel": "Time",
+    "ylabel": "Survival Probability",
+    "show_legend": true,
+    "font_size": 12,
+    "title_font_size": 14,
+    "show_risk_table": false,
+    "risk_table_height": 0.25,
+    "show_confidence_intervals": false,
+    "ci_alpha": 0.3
+  },
+  "data_path": "../synthetic_data/benchmark/data/plot_0024_truncated_y-axis_km_06-09_data.csv",
+  "plot_path": "../synthetic_data/benchmark/plots/plot_0024_truncated_y-axis_km_06-09_plot.png",
+  "num_samples": 106,
+  "censoring_rate": 0.4339622641509434,
+  "time_range": [
+    0.01086140881205693,
+    24.04288953605632
+  ]
+}

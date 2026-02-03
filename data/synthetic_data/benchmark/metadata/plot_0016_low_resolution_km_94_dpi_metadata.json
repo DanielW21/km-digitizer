@@ -1,0 +1,49 @@
+{
+  "generator": "Low Resolution KM (94 DPI)",
+  "config": {
+    "num_samples": 129,
+    "censoring_rate": 0.3,
+    "figure_size": [
+      10,
+      6
+    ],
+    "dpi": 94,
+    "line_width": 2.0,
+    "x_limits": null,
+    "y_limits": [
+      0,
+      1
+    ],
+    "truncate_y_axis": false,
+    "y_truncate_min": 0.0,
+    "y_truncate_max": 1.0,
+    "show_grid": true,
+    "grid_alpha": 0.3,
+    "background_color": "white",
+    "add_noise": false,
+    "noise_level": 0.1,
+    "blur_kernel": 0,
+    "jpeg_quality": 95,
+    "num_groups": 1,
+    "group_names": null,
+    "colors": null,
+    "title": "Kaplan-Meier Survival Curve",
+    "xlabel": "Time",
+    "ylabel": "Survival Probability",
+    "show_legend": true,
+    "font_size": 12,
+    "title_font_size": 14,
+    "show_risk_table": false,
+    "risk_table_height": 0.25,
+    "show_confidence_intervals": false,
+    "ci_alpha": 0.3
+  },
+  "data_path": "../synthetic_data/benchmark/data/plot_0016_low_resolution_km_94_dpi_data.csv",
+  "plot_path": "../synthetic_data/benchmark/plots/plot_0016_low_resolution_km_94_dpi_plot.png",
+  "num_samples": 129,
+  "censoring_rate": 0.0,
+  "time_range": [
+    0.10929993702709298,
+    65.01697093978
+  ]
+}

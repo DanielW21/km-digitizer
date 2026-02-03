@@ -1,0 +1,53 @@
+{
+  "generator": "Multi-Group KM (3 groups)",
+  "config": {
+    "num_samples": 234,
+    "censoring_rate": 0.492344928330937,
+    "figure_size": [
+      10,
+      6
+    ],
+    "dpi": 100,
+    "line_width": 2.0,
+    "x_limits": null,
+    "y_limits": [
+      0,
+      1
+    ],
+    "truncate_y_axis": false,
+    "y_truncate_min": 0.0,
+    "y_truncate_max": 1.0,
+    "show_grid": true,
+    "grid_alpha": 0.3,
+    "background_color": "white",
+    "add_noise": false,
+    "noise_level": 0.1,
+    "blur_kernel": 0,
+    "jpeg_quality": 95,
+    "num_groups": 3,
+    "group_names": [
+      "Treatment 1",
+      "Treatment 2",
+      "Treatment 3"
+    ],
+    "colors": null,
+    "title": "Kaplan-Meier Survival Curve",
+    "xlabel": "Time",
+    "ylabel": "Survival Probability",
+    "show_legend": true,
+    "font_size": 12,
+    "title_font_size": 14,
+    "show_risk_table": false,
+    "risk_table_height": 0.25,
+    "show_confidence_intervals": "True",
+    "ci_alpha": 0.3
+  },
+  "data_path": "../synthetic_data/benchmark/data/plot_0006_multi-group_km_3_groups_data.csv",
+  "plot_path": "../synthetic_data/benchmark/plots/plot_0006_multi-group_km_3_groups_plot.png",
+  "num_samples": 234,
+  "censoring_rate": 0.26068376068376065,
+  "time_range": [
+    0.0006506271204539036,
+    88.0305094039255
+  ]
+}

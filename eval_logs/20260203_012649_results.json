@@ -1,0 +1,235 @@
+{
+  "summary_statistics": {
+    "n_datasets": 33,
+    "median_ae": {
+      "median": 0.049029123525350105,
+      "ci_95": [
+        0.016176620502193453,
+        0.25517035655820813
+      ],
+      "mean": 0.08118382166625639,
+      "std": 0.08274717784733705
+    },
+    "iae": {
+      "median": 0.03374057286352944,
+      "ci_95": [
+        0.012638453693944828,
+        0.09593279060205308
+      ],
+      "mean": 0.040167373416989054,
+      "std": 0.023277475254814925
+    },
+    "median_os_error": {
+      "median": 0.028695977091873437,
+      "ci_95": [
+        0.0008067593263220762,
+        0.11932311648954003
+      ],
+      "mean": 0.03847418267079787,
+      "std": 0.035996213378806693,
+      "n_datasets_with_median": 33
+    }
+  },
+  "individual_results": [
+    {
+      "integrated_absolute_error": 0.09024424942376391,
+      "median_os_error": 0.11773056497141614,
+      "plot_name": "plot_0014_low_resolution_km_98_dpi_plot",
+      "dataset_id": "plot_0014_low_resolution_km_98_dpi_plot"
+    },
+    {
+      "integrated_absolute_error": 0.040051807210058785,
+      "median_os_error": 0.0006466048851871686,
+      "plot_name": "plot_0017_low_resolution_km_72_dpi_plot",
+      "dataset_id": "plot_0017_low_resolution_km_72_dpi_plot"
+    },
+    {
+      "integrated_absolute_error": 0.026075162966483163,
+      "median_os_error": 0.019226496955935563,
+      "plot_name": "plot_0022_noisy_km_gaussian,_109%_plot",
+      "dataset_id": "plot_0022_noisy_km_gaussian,_109%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.05267262039466922,
+      "median_os_error": 0.021251207810695866,
+      "plot_name": "plot_0019_noisy_km_salt_pepper,_78%_plot",
+      "dataset_id": "plot_0019_noisy_km_salt_pepper,_78%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.017174921439593607,
+      "median_os_error": 0.006623155931399491,
+      "plot_name": "plot_0015_low_resolution_km_76_dpi_plot",
+      "dataset_id": "plot_0015_low_resolution_km_76_dpi_plot"
+    },
+    {
+      "integrated_absolute_error": 0.03374057286352944,
+      "median_os_error": 0.01568938575361334,
+      "plot_name": "plot_0032_complex_real-world_km_level_5_plot",
+      "dataset_id": "plot_0032_complex_real-world_km_level_5_plot"
+    },
+    {
+      "integrated_absolute_error": 0.11868695531520987,
+      "median_os_error": 0.12569332256203558,
+      "plot_name": "plot_0011_plateau_km_cure=105%_plot",
+      "dataset_id": "plot_0011_plateau_km_cure=105%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.012572119393475365,
+      "median_os_error": 0.0069941139808361585,
+      "plot_name": "plot_0012_crossing_curves_km_plot",
+      "dataset_id": "plot_0012_crossing_curves_km_plot"
+    },
+    {
+      "integrated_absolute_error": 0.03267226827139038,
+      "median_os_error": 0.03262853787891545,
+      "plot_name": "plot_0018_noisy_km_gaussian,_74%_plot",
+      "dataset_id": "plot_0018_noisy_km_gaussian,_74%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.012655037269062194,
+      "median_os_error": 0.0077553071464980805,
+      "plot_name": "plot_0008_multi-group_km_2_groups_plot",
+      "dataset_id": "plot_0008_multi-group_km_2_groups_plot"
+    },
+    {
+      "integrated_absolute_error": 0.025503511262661725,
+      "median_os_error": 0.014320641667854517,
+      "plot_name": "plot_0000_standard_km_late_drop,_\u03b1=15_plot",
+      "dataset_id": "plot_0000_standard_km_late_drop,_\u03b1=15_plot"
+    },
+    {
+      "integrated_absolute_error": 0.026808308994768403,
+      "median_os_error": 0.016855813075558668,
+      "plot_name": "plot_0003_standard_km_exponential,_\u03b1=10_plot",
+      "dataset_id": "plot_0003_standard_km_exponential,_\u03b1=10_plot"
+    },
+    {
+      "integrated_absolute_error": 0.06182975088631367,
+      "median_os_error": 0.028812047337408497,
+      "plot_name": "plot_0013_low_resolution_km_74_dpi_plot",
+      "dataset_id": "plot_0013_low_resolution_km_74_dpi_plot"
+    },
+    {
+      "integrated_absolute_error": 0.024650924668135295,
+      "median_os_error": 0.004480146427815624,
+      "plot_name": "plot_0010_early_dropoff_km_\u03b1=05_plot",
+      "dataset_id": "plot_0010_early_dropoff_km_\u03b1=05_plot"
+    },
+    {
+      "integrated_absolute_error": 0.0535967799285067,
+      "median_os_error": 0.0789612616259387,
+      "plot_name": "plot_0004_standard_km_late_drop,_\u03b1=20_plot",
+      "dataset_id": "plot_0004_standard_km_late_drop,_\u03b1=20_plot"
+    },
+    {
+      "integrated_absolute_error": 0.06386826495066751,
+      "median_os_error": 0.0473051324371652,
+      "plot_name": "plot_0009_multi-group_km_2_groups_plot",
+      "dataset_id": "plot_0009_multi-group_km_2_groups_plot"
+    },
+    {
+      "integrated_absolute_error": 0.01575992491692878,
+      "median_os_error": 0.0030503284151629506,
+      "plot_name": "plot_0007_multi-group_km_2_groups_plot",
+      "dataset_id": "plot_0007_multi-group_km_2_groups_plot"
+    },
+    {
+      "integrated_absolute_error": 0.03579706434164659,
+      "median_os_error": 0.0377313463880814,
+      "plot_name": "plot_0029_complex_real-world_km_level_3_plot",
+      "dataset_id": "plot_0029_complex_real-world_km_level_3_plot"
+    },
+    {
+      "integrated_absolute_error": 0.028951858295391403,
+      "median_os_error": 0.03060820337858719,
+      "plot_name": "plot_0020_noisy_km_gaussian,_77%_plot",
+      "dataset_id": "plot_0020_noisy_km_gaussian,_77%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.04152144900249113,
+      "median_os_error": 0.08527887450564303,
+      "plot_name": "plot_0027_truncated_y-axis_km_04-10_plot",
+      "dataset_id": "plot_0027_truncated_y-axis_km_04-10_plot"
+    },
+    {
+      "integrated_absolute_error": 0.025074748506005176,
+      "median_os_error": 0.01479998314826067,
+      "plot_name": "plot_0028_complex_real-world_km_level_4_plot",
+      "dataset_id": "plot_0028_complex_real-world_km_level_4_plot"
+    },
+    {
+      "integrated_absolute_error": 0.06876615132171919,
+      "median_os_error": 0.019197790012276922,
+      "plot_name": "plot_0031_complex_real-world_km_level_4_plot",
+      "dataset_id": "plot_0031_complex_real-world_km_level_4_plot"
+    },
+    {
+      "integrated_absolute_error": 0.029183237540260348,
+      "median_os_error": 0.046774049211322305,
+      "plot_name": "plot_0006_multi-group_km_3_groups_plot",
+      "dataset_id": "plot_0006_multi-group_km_3_groups_plot"
+    },
+    {
+      "integrated_absolute_error": 0.06580023704710386,
+      "median_os_error": 0.07254049303007723,
+      "plot_name": "plot_0002_standard_km_exponential,_\u03b1=10_plot",
+      "dataset_id": "plot_0002_standard_km_exponential,_\u03b1=10_plot"
+    },
+    {
+      "integrated_absolute_error": 0.038071634197447926,
+      "median_os_error": 0.028695977091873437,
+      "plot_name": "plot_0001_standard_km_late_drop,_\u03b1=15_plot",
+      "dataset_id": "plot_0001_standard_km_late_drop,_\u03b1=15_plot"
+    },
+    {
+      "integrated_absolute_error": 0.013255649921912716,
+      "median_os_error": 0.0008467979366058032,
+      "plot_name": "plot_0016_low_resolution_km_94_dpi_plot",
+      "dataset_id": "plot_0016_low_resolution_km_94_dpi_plot"
+    },
+    {
+      "integrated_absolute_error": 0.05471821582761463,
+      "median_os_error": 0.11491178242643857,
+      "plot_name": "plot_0026_truncated_y-axis_km_05-10_plot",
+      "dataset_id": "plot_0026_truncated_y-axis_km_05-10_plot"
+    },
+    {
+      "integrated_absolute_error": 0.05155622149104582,
+      "median_os_error": 0.049678409775744004,
+      "plot_name": "plot_0025_truncated_y-axis_km_04-09_plot",
+      "dataset_id": "plot_0025_truncated_y-axis_km_04-09_plot"
+    },
+    {
+      "integrated_absolute_error": 0.056067682190860633,
+      "median_os_error": 0.08402707654177599,
+      "plot_name": "plot_0023_truncated_y-axis_km_05-09_plot",
+      "dataset_id": "plot_0023_truncated_y-axis_km_05-09_plot"
+    },
+    {
+      "integrated_absolute_error": 0.03289676779167135,
+      "median_os_error": 0.002629936958273904,
+      "plot_name": "plot_0021_noisy_km_gaussian,_123%_plot",
+      "dataset_id": "plot_0021_noisy_km_gaussian,_123%_plot"
+    },
+    {
+      "integrated_absolute_error": 0.024734666285788857,
+      "median_os_error": 0.08242930180181932,
+      "plot_name": "plot_0024_truncated_y-axis_km_06-09_plot",
+      "dataset_id": "plot_0024_truncated_y-axis_km_06-09_plot"
+    },
+    {
+      "integrated_absolute_error": 0.03623049717814608,
+      "median_os_error": 0.041347919227103375,
+      "plot_name": "plot_0005_multi-group_km_3_groups_plot",
+      "dataset_id": "plot_0005_multi-group_km_3_groups_plot"
+    },
+    {
+      "integrated_absolute_error": 0.014334061666315,
+      "median_os_error": 0.010126017839009849,
+      "plot_name": "plot_0030_complex_real-world_km_level_4_plot",
+      "dataset_id": "plot_0030_complex_real-world_km_level_4_plot"
+    }
+  ],
+  "successful_evaluations": 33,
+  "failed_evaluations": 4
+}

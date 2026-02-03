@@ -1,5 +1,4 @@
 .env
 __pyccache__
 *.pyc
-logs/
 .DS_Store
